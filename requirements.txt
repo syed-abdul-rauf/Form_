@@ -1,2 +1,4 @@
 # requirements.txt
+python==3.9.7
+streamlit==<version>
 pyodbc==<version>
